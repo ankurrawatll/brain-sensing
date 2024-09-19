@@ -96,7 +96,7 @@ try:
                     print(f"Invalid value received: {line}")
 
 except KeyboardInterrupt:
-    print("Exiting...")
+    print("Exiting...,")
     ser.close()
     plt.close()
 
