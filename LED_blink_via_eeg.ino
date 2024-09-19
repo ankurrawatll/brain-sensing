@@ -42,5 +42,5 @@ void loop() {
   }
 
   // Small delay to avoid flooding the serial output
-  delay(50);
+  delay(100);
 }
